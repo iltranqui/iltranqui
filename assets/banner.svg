@@ -34,10 +34,12 @@
 
   <!-- Text, kept inside the central safe zone -->
   <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="110" y="170" font-size="22" fill="#76e5b5">$ whoami</text>
-    <text x="110" y="250" font-size="64" font-weight="700" fill="#f2f5fb">Enrico Tranquillini</text>
-    <text x="110" y="305" font-size="28" fill="#aab6d0">Machine Learning Engineer</text>
-    <text x="110" y="360" font-size="24" fill="url(#accent)">Rust  ·  CUDA  ·  C++</text>
-    <text x="110" y="420" font-size="18" fill="#6c7893">GPU computing · computer vision · Politecnico di Milano</text>
+    <text x="110" y="105" font-size="22" fill="#76e5b5">$ whoami</text>
+    <text x="110" y="180" font-size="64" font-weight="700" fill="#f2f5fb">Enrico Tranquillini</text>
+    <text x="110" y="230" font-size="26" fill="#aab6d0">Machine Learning Engineer @ Danieli Automation</text>
+    <text x="110" y="280" font-size="24" fill="url(#accent)">Rust  ·  CUDA  ·  C++</text>
+    <text x="110" y="345" font-size="18" fill="#8793ad">Former student @ Politecnico di Milano — passionate about GPU computing,</text>
+    <text x="110" y="373" font-size="18" fill="#8793ad">computer vision, and learning how things work at a low level.</text>
+    <text x="110" y="425" font-size="18" fill="#6c7893">AI is changing fast isn't it ;) ?</text>
   </g>
 </svg>

@@ -4,12 +4,6 @@
   <img src="assets/banner.svg" alt="Enrico Tranquillini — Machine Learning Engineer. Rust, CUDA, C++." width="100%">
 </p>
 
-Former student @ **Politecnico di Milano** — passionate about GPU computing, computer vision, and learning how things work at a low level.
-
-Machine Learning Engineer @ **Danieli Automation**, working with Rust, CUDA, and C++.
-
-AI is changing fast isn't it ;) ?
-
 ## Table of Contents
 
 - [Tech Stack](#tech-stack)
