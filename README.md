@@ -4,11 +4,9 @@
   <img src="assets/banner.svg" alt="Enrico Tranquillini — Machine Learning Engineer. Rust, CUDA, C++." width="100%">
 </p>
 
-# Hi, I'm Enrico 👋
-
 Former student @ **Politecnico di Milano** — passionate about GPU computing, computer vision, and learning how things work at a low level.
 
-Machine Learning Engineer working with Rust, CUDA, and C++.
+Machine Learning Engineer @ **Danieli Automation**, working with Rust, CUDA, and C++.
 
 AI is changing fast isn't it ;) ?
 
@@ -30,7 +28,7 @@ AI is changing fast isn't it ;) ?
 | Area | Tools |
 |------|-------|
 | Languages | Rust, C++, CUDA, Python |
-| GPU / ML | CUDA, cuDNN, cuBLAS, PyTorch |
+| GPU / ML | CUDA, cuDNN, cuTile, HIP, PyTorch |
 | Tooling | Git, CMake, Cargo, Linux |
 
 ## Projects
@@ -42,4 +40,4 @@ AI is changing fast isn't it ;) ?
 
 <!-- TODO: add links -->
 - GitHub: [@iltranqui](https://github.com/iltranqui)
-- LinkedIn: _add link_
+- LinkedIn: [Enrico Tranquillini](https://www.linkedin.com/in/enrico-tranquillini-888b13162/)
