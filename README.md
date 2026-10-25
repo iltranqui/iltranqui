@@ -12,16 +12,8 @@ AI is changing fast isn't it ;) ?
 
 ## Table of Contents
 
-- [What I Work On](#what-i-work-on)
 - [Tech Stack](#tech-stack)
-- [Projects](#projects)
 - [Contact](#contact)
-
-## What I Work On
-
-- GPU kernels and performance tuning (CUDA, tile-based programming)
-- Computer vision and machine learning pipelines
-- Systems-level code in Rust and modern C++
 
 ## Tech Stack
 
@@ -31,13 +23,7 @@ AI is changing fast isn't it ;) ?
 | GPU / ML | CUDA, cuDNN, cuTile, HIP, PyTorch |
 | Tooling | Git, CMake, Cargo, Linux |
 
-## Projects
-
-<!-- TODO: replace with real repos -->
-- **Project name** — one-line description. [repo](https://github.com/iltranqui)
-
 ## Contact
 
-<!-- TODO: add links -->
 - GitHub: [@iltranqui](https://github.com/iltranqui)
 - LinkedIn: [Enrico Tranquillini](https://www.linkedin.com/in/enrico-tranquillini-888b13162/)
