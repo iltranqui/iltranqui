@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="t d">
+  <title id="t">Enrico Tranquillini</title>
+  <desc id="d">Machine Learning Engineer. Rust, CUDA, C++. GPU computing and computer vision.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="1" stop-color="#141b2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76e5b5"/>
+      <stop offset="1" stop-color="#5aa9ff"/>
+    </linearGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M50 0H0V50" fill="none" stroke="#5aa9ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#grid)"/>
+
+  <!-- GPU tile grid motif -->
+  <g transform="translate(1010 90)" stroke="url(#accent)" fill="none" stroke-width="2">
+    <rect x="0"   y="0"   width="80" height="80" rx="6" opacity="0.9"/>
+    <rect x="100" y="0"   width="80" height="80" rx="6" opacity="0.6"/>
+    <rect x="200" y="0"   width="80" height="80" rx="6" opacity="0.35"/>
+    <rect x="0"   y="100" width="80" height="80" rx="6" opacity="0.6"/>
+    <rect x="100" y="100" width="80" height="80" rx="6" fill="url(#accent)" fill-opacity="0.18" opacity="1"/>
+    <rect x="200" y="100" width="80" height="80" rx="6" opacity="0.6"/>
+    <rect x="0"   y="200" width="80" height="80" rx="6" opacity="0.35"/>
+    <rect x="100" y="200" width="80" height="80" rx="6" opacity="0.6"/>
+    <rect x="200" y="200" width="80" height="80" rx="6" opacity="0.9"/>
+    <path d="M80 40H100M180 40H200M40 80V100M140 80V100M240 80V100M80 140H100M180 140H200M40 180V200M140 180V200" opacity="0.5"/>
+  </g>
+
+  <!-- Text, kept inside the central safe zone -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="110" y="170" font-size="22" fill="#76e5b5">$ whoami</text>
+    <text x="110" y="250" font-size="64" font-weight="700" fill="#f2f5fb">Enrico Tranquillini</text>
+    <text x="110" y="305" font-size="28" fill="#aab6d0">Machine Learning Engineer</text>
+    <text x="110" y="360" font-size="24" fill="url(#accent)">Rust  ·  CUDA  ·  C++</text>
+    <text x="110" y="420" font-size="18" fill="#6c7893">GPU computing · computer vision · Politecnico di Milano</text>
+  </g>
+</svg>
